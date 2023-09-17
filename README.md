@@ -1,4 +1,4 @@
-# mqttnet_sample_db
+# mqttnet sample with MS SQL DB 
 
 this sample use DB for authentication and different logs from sessions 
 
